@@ -41,7 +41,6 @@
         android:inputType="number"
         android:ems="5"
         android:importantForAutofill="no" />
-
     <!-- Textview for how hungry -->
     <TextView
         android:layout_width="wrap_content"
@@ -84,7 +83,6 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
         android:textSize="24sp"/>
-
     <!-- Button for calculating total pizzas -->
     <Button
         android:id="@+id/calc_button"
